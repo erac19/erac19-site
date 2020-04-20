@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "nCoV-CDC-23312.png"
+hero_media = "tsx_composite.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,8 +51,6 @@ hero_media = "nCoV-CDC-23312.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The BC COVID-19 Modelling Group works on rapid response modelling of the COVID-19 pandemic, with a special focus on British Columbia and Canada.
+The Economic Recovery after COVID-19 Group is a team of researchers supporting Canada's economic recovery from the COVID-19 pandemic.
 
-The interdisciplinary Group was convened by [Caroline Colijn (SFU)](https://www.sfu.ca/math/department/faculty/colijn--caroline.html) and [Dan Coombs (UBC)](https://www.math.ubc.ca/~coombs/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
-
-
+The interdisciplinary Group was convened by [David Green (UBC)](https://economics.ubc.ca/faculty-and-staff/david-green/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).

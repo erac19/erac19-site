@@ -36,7 +36,7 @@ This site is running a version of the Academic Hugo Theme/system. This post prov
 ### Clone repo and submodules
 
 ```bash
-git clone https://github.com/bcCOVID-19group/bcCOVID-19group-site.git
+git clone https://github.com/erac19/erac19-site.git
 git submodule update --init --recursive
 ```
 

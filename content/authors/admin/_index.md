@@ -1,6 +1,6 @@
 ---
 # Display name
-name: BC COVID-19 Modelling Group
+name: Economic Recovery after COVID-19 Group
 
 # Username (this should match the folder name)
 authors:
@@ -23,21 +23,9 @@ role:
 bio: 
 
 interests:
+- Quantitative Economics
 - Mathematical Modeling
 - Computational techniques
-- Mathematical Biology
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +37,7 @@ social:
   link: https://twitter.com/pimsmath
 - icon: github
   icon_pack: fab
-  link: https://github.com/bcCOVID-19group
+  link: https://github.com/erac19
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +53,3 @@ user_groups:
 - [] 
 ---
 
-
-Lorem ipsum dolor
