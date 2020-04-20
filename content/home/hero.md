@@ -51,6 +51,6 @@ hero_media = "tsx_composite.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The Economic Recovery after COVID-19 Group is a team of researchers supporting Canada's economic recovery from the COVID-19 pandemic.
+The 🇨🇦 Economic Recovery after COVID-19 Group is a team of researchers supporting Canada's economic recovery from the COVID-19 pandemic.
 
-The interdisciplinary Group was convened by [David Green (UBC)](https://economics.ubc.ca/faculty-and-staff/david-green/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+The interdisciplinary Group was convened by [David Green (UBC)](https://economics.ubc.ca/faculty-and-staff/david-green/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/) and the [Vancouver School of Economics](https://economics.ubc.ca/).
