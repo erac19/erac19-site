@@ -42,7 +42,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "bcCOVID-19group"
+org_name = "Economic Recovery After COVID-19 Group"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "The mission of the ERAC19 Group is to support Canada's economic recovery from the COVID-19 pandemic."
@@ -118,7 +118,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "nCoV-CDC-23312.png"
+sharing_image = "tsx_composite.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "pimsmath"

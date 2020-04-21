@@ -57,13 +57,13 @@ The people in the site can belong to groups (`Researchers`, `Support`) and are s
 
 ### Projects
 
-The files in the `project` directory describe a project for the Group. While carrying out work on a project, collaborators will generate outputs (`posts`, `publications`).
+The files in the `project` directory describe a project for the Group. While carrying out work on a project, collaborators will generate outputs (`posts`, `talks`, and `publications`).
 
 
 
 ### Outputs
 
 + Posts
++ Talks
 + Publications
 
-(We could also add `Talks`)
