@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fb60d959-49c9-4cad-9e27-46a4876513b7/deploy-status)](https://app.netlify.com/sites/nifty-darwin-65928f/deploys)
 
-The bccovid-19group.ca site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
+The erac19.ca site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
 
 ## How to contribute to website development?
 
